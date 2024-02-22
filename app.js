@@ -3,7 +3,7 @@ import {
 arrayPartition,
 arrayShift,
 matrixOne
-} from './arrayUtils.mjs';
+} from './arrayUtils.js';
 
 // import {swapChars} from './stringUtils.mjs';
 // import {longestCommonSubstring} from './stringUtils.mjs';
@@ -13,7 +13,7 @@ import {
 swapChars,
 longestCommonSubstring,
 palindromeOrIsogram
-} from './stringUtils.mjs';
+} from './stringUtils.js';
 
 // import {objectStats} from './objectUtils.mjs';
 // import {nestedObjectsDiff} from './objectUtils.mjs';
@@ -23,7 +23,7 @@ import {
 objectStats,
 nestedObjectsDiff,
 mergeAndSumValues
-} from './objectUtils.mjs';
+} from './objectUtils.js';
 
 
 //when we call the function, we wrap the call to the function in a console.log
